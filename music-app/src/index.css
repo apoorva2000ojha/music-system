@@ -1,0 +1,51 @@
+*{
+  background-color: black;
+  color:white;
+  font-size: 20px ;
+}
+
+.Playing{
+  font-size: 40px;
+  margin-left: 45vw;
+}
+img{
+  width:30vw;
+  height:40vh;
+  margin-left: 37vw;
+  border-radius: 10px;
+}
+.SongTitle{
+  text-align: center;
+  font-size: 30px;
+}
+.ArtistTitle{
+  text-align: center;
+}
+.NextSong{
+  text-align: center;
+}
+.SkipButton{
+background-color: green;
+border-radius: 5px;
+padding: 10px 10px 10px 10px;
+}
+.controlPlaybutton{
+  background-color: green;
+  border-radius: 5px;
+  padding: 10px 10px 10px 10px;
+}
+.control{
+  margin-left: 40vw;
+}
+.c-player--audio{
+  margin-top: 10px;
+  margin-left: 40vw;
+}
+.PlaylistOptions{
+  margin-left: 38vw; 
+}
+.Add{
+  background-color: green;
+border-radius: 5px;
+padding: 10px 10px 10px 10px;
+}
